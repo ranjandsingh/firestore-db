@@ -1,0 +1,27 @@
+{
+  "name": "firestore-db",
+  "version": "1.0.0",
+  "description": "A wrapper for Firestore to query data easily with Syntax inspired by Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjandsingh/firestore-db.git"
+  },
+  "keywords": [
+    "firestore",
+    "firestore-db",
+    "firestore-data-extractor",
+    "firebase",
+    "firebase-tools",
+    "firestore-tools"
+  ],
+  "author": "Ranjan Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjandsingh/firestore-db/issues"
+  },
+  "homepage": "https://github.com/ranjandsingh/firestore-db#readme"
+}
