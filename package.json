@@ -1,6 +1,6 @@
 {
   "name": "firestore-db",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "A wrapper for Firestore to query data easily with Syntax inspired by Mongoose",
   "main": "index.js",
   "scripts": {
