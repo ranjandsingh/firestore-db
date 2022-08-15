@@ -40,7 +40,7 @@ const SearchedUsers = Users.search("firstName","Joh")
 **find()** : find can take an object containing key value pair where query can be string, array or object with operator and value. the param bjects can also take orderBy and limit and returns and array of results no need to call data() functions to get the results.
 ex :
 
-````javascript
+```javascript
 users.find({
 	firstName:"John",
 	city :["New York","Los Angeles"],
@@ -66,9 +66,3 @@ users.find({
 
 ###### Note: ids and Keys will always be strings
 
-
-
-
-
-
-````
